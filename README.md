@@ -14,7 +14,7 @@ MegaBlog is a complete blogging application built with React, Vite, and Appwrite
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/jasmeetsingh025/megaBlog-complete-react-app.git
    cd megablog-complete-react-app
    ```
 
